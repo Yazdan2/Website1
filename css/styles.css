@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 50px;
+  margin-top: 20px;
+}
+
+.Bottom-container {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  ;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.up-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.image {
+  height: 160px;
+}
+
+.hi {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+.para {
+  display: inline-block;
+}
+
+.skills {
+  background-color: #E4F9F5;
+}
+
+.mountain {
+  height: 300px;
+}
+
+.mod {
+  background-color: #E4F9F5;
+}
+.ckc{
+  background-color: #E4F9F5;
+}
+ .nice{
+   font-family: 'Grandstander', cursive;
+ }
